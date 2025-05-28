@@ -1,0 +1,25 @@
+2025-05-26 19:05:00.444 [info] 
+
+
+
+
+2025-05-26 19:05:00.452 [info] Extension host agent started.
+2025-05-26 19:05:00.503 [info] Started initializing default profile extensions in extensions installation folder. file:///home/pon/.vscode-server/extensions
+2025-05-26 19:05:00.538 [info] ComputeTargetPlatform: linux-x64
+2025-05-26 19:05:00.548 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/pon/.vscode-server/extensions
+2025-05-26 19:05:00.638 [info] [127.0.0.1][59c82e0b][ManagementConnection] New connection established.
+2025-05-26 19:05:00.680 [info] Installing extensions...
+2025-05-26 19:05:00.887 [info] [127.0.0.1][52302f80][ExtensionHostConnection] New connection established.
+2025-05-26 19:05:00.892 [info] ComputeTargetPlatform: linux-x64
+2025-05-26 19:05:00.900 [info] [127.0.0.1][52302f80][ExtensionHostConnection] <629> Launched Extension Host Process.
+2025-05-26 19:05:01.242 [info] Installing extension 'ms-ceintl.vscode-language-pack-ja'...
+2025-05-26 19:05:01.531 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2025-05-26 19:05:01.556 [info] Installing extension: ms-ceintl.vscode-language-pack-ja {"isMachineScoped":true,"isBuiltin":false,"installGivenVersion":false,"isApplicationScoped":true,"profileLocation":{"$mid":1,"fsPath":"/home/pon/.vscode-server/extensions/extensions.json","external":"file:///home/pon/.vscode-server/extensions/extensions.json","path":"/home/pon/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-26 19:05:02.801 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-ja: Success. Internal Code: 0. Executed: true. Duration: 872ms.
+2025-05-26 19:05:02.893 [info] Extracted extension to file:///home/pon/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.100.2025051409: ms-ceintl.vscode-language-pack-ja
+2025-05-26 19:05:02.904 [info] Renamed to /home/pon/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.100.2025051409
+2025-05-26 19:05:02.911 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2025-05-26 19:05:02.924 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja file:///home/pon/.vscode-server/extensions/extensions.json
+2025-05-26 19:05:02.925 [info] Extension 'ms-ceintl.vscode-language-pack-ja' v1.100.2025051409 was successfully installed.
+2025-05-26 19:22:42.683 [info] [127.0.0.1][59c82e0b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-26 19:22:42.756 [info] [127.0.0.1][52302f80][ExtensionHostConnection] <629> Extension Host Process exited with code: 0, signal: null.

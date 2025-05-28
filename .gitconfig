@@ -1,0 +1,7 @@
+[user]
+	name = <pon>
+	email = <youbuxiaming@gmail.com>
+[init]
+	defaultBranch = main
+[core]
+	editor = code --wait

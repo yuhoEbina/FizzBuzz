@@ -1,0 +1,15 @@
+2025-05-28 18:08:38.720 [info] [main] ログ レベル: Info
+2025-05-28 18:08:38.720 [info] [main] Git の検証が検出されました: "git"
+2025-05-28 18:08:38.720 [info] [main] "git" から Git "2.43.0" を使用しています
+2025-05-28 18:08:38.720 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-28 18:08:38.720 [info] > git rev-parse --show-toplevel [9ms]
+2025-05-28 18:08:38.720 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-28 18:08:38.720 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-28 18:08:38.720 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-28 18:08:38.733 [info] > git rev-parse --show-toplevel [13ms]
+2025-05-28 18:08:38.733 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-28 18:08:38.754 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-28 18:08:38.754 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-28 18:08:38.765 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-28 18:08:38.765 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-28 18:08:38.775 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
